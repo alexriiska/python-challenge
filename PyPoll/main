@@ -62,7 +62,7 @@ print('----------------------------')
 
 # In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-with open("Election Results", mode = "w") as file:
+with open("Election Results.txt", mode = "w") as file:
     file.write('Election Results')
     file.write("\n")
     file.write('----------------------------')
