@@ -12,7 +12,7 @@ import csv
 from statistics import mean
 
 #import the csv path
-csvpath = "PyBank/Resources/budget_data.csv"
+csvpath = "Resources/budget_data.csv"
 
 #create empty lists for row count (total months), total profit/loss (Column "B"), and changes in monthly profit 
 rowcount = []
